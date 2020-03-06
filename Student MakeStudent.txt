@@ -1,0 +1,11 @@
+constructor
+请输入学号：19351074
+请输入姓名：李泽昀
+请输入学校名称：SYSU
+constructor
+distructor
+distructor
+学号：19351074
+姓名：李泽昀
+学校名称：SYSU
+distructor

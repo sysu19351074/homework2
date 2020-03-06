@@ -1,0 +1,10 @@
+constructor
+请输入身份证号：123456
+请输入姓名：李泽昀
+copy constructor
+身份证号：123456
+姓名：李泽昀
+身份证号：123456
+姓名：李泽昀
+distructor
+distructor

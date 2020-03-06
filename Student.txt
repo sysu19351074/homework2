@@ -1,0 +1,16 @@
+constructor1
+constructor2
+请输入学号：19351074
+请输入学校名称：SYSU
+请输入学号：123456
+请输入学校名称：USYS
+copy constructor
+学号：19351074
+学校名称：SYSU
+学号：123456
+学校名称：USYS
+学号：123456
+学校名称：USYS
+distructor
+distructor
+distructor
